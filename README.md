@@ -1,24 +1,3 @@
-# Directorio raiz proyecto
-
-FBI-System-SSVC/
-│
-├── controllers/
-│   └── authController.js
-├── middlewares/
-│   └── authMiddleware.js
-├── models/
-│   └── agentes.js
-├── public/
-│   ├── index.html
-│   ├── welcome.html
-│   ├── script.js
-│   └── welcome.js
-├── routes/
-│   └── authRoutes.js
-├── app.js
-└── package.json
-
-
 # Descargar proyecto
 
 git clone https://github.com/siseveca79/FBI-System-SSVC
